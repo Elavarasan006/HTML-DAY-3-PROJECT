@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+}
+#aa{
+    border-radius: 6%;
+    background-image: url("https://t3.ftcdn.net/jpg/05/48/56/38/360_F_548563894_s5tGFJjPhc7lp5uG4iJkR77QbgvrKr9e.jpg");
+    padding: 30px;
+}
+#bb{
+        display: flex;
+    align-items: center;
+    justify-content: center;
+}
